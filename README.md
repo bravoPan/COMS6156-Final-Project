@@ -47,6 +47,7 @@ Retool
 
 Video
 - https://m.youtube.com/watch?v=BzQcsAu1q28&ab_channel=JackWang
+- https://youtu.be/LLeilr1xk2g
 
 ## Implemetation
 
